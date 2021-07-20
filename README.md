@@ -1,3 +1,5 @@
+# The notebooks and markdown files are located in the starter_code folder
+
 # Unit 10—A Yen for the Future
 
 ![Yen Photo](Images/unit-10-readme-photo.png)
